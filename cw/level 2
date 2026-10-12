@@ -1,0 +1,16 @@
+n1 = 10
+n2 = 5
+
+print(n1 - n2)
+print(n1 + n2)
+print(n1 * n2)
+print(n1 / n2)
+print(n1 // n2)
+
+name = "nick"
+age = "14 years old"
+fav_color = "green n purple"
+
+print("my name is "  + name )
+print("i am " + age)
+print("my favorite colors are " + fav_color)
